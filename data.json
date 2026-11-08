@@ -1,0 +1,59 @@
+{
+  "servers": {
+    "Test": {
+      "name": "Test",
+      "owner": "YaminOnFire07",
+      "runtime": "python",
+      "status": "stopped",
+      "main_file": "",
+      "main_command": "",
+      "port": 8080,
+      "pid": null,
+      "created": "2026-11-06T21:54:55.798938"
+    },
+    "TY": {
+      "name": "TY",
+      "owner": "YaminOnFire07",
+      "runtime": "python",
+      "status": "stopped",
+      "main_file": "",
+      "main_command": "",
+      "port": 8080,
+      "pid": null,
+      "created": "2026-11-07T14:33:06.197771"
+    },
+    "TYNEX": {
+      "name": "TYNEX",
+      "owner": "mr_yamin_boss",
+      "runtime": "python",
+      "status": "stopped",
+      "main_file": "",
+      "main_command": "",
+      "port": 8080,
+      "pid": null,
+      "created": "2026-11-08T23:41:30.763636"
+    }
+  },
+  "users": {
+    "TY": {
+      "joined": "2026-11-06T20:13:19.281979",
+      "password_hash": "44838beb321594a92f1029c2b711e681aeed749c1253fc302c4dd681b5e30b77"
+    },
+    "YaminOnFire07": {
+      "joined": "2026-11-07T14:32:59.699059",
+      "password_hash": "44838beb321594a92f1029c2b711e681aeed749c1253fc302c4dd681b5e30b77"
+    },
+    "mr_yamin_boss": {
+      "joined": "2026-11-08T23:41:17.620079",
+      "password_hash": "048555dffbc7214b58897f7fb47209f7339a7cf8f57069a00243e62ea992fa26"
+    }
+  },
+  "settings": {
+    "maintenance": false,
+    "maintenance_msg": "System under maintenance.",
+    "theme_color": "#a855f7",
+    "normal_password": "TYNEX",
+    "site_name": "TY HOSTING SERVER",
+    "auto_restart_interval": 300
+  }
+}
